@@ -28,7 +28,6 @@
 Este projeto foi desenvolvido para organizar e realizar sorteios de "Amigo Secreto". Com ele, você pode:
 - Cadastrar participantes.
 - Realizar sorteios de forma aleatória.
-- Caso o participante não insira nenhum nome, uma mensagem de alerta " Por favor, insira um nome".
 - Exibir os pares formados de maneira intuitiva.
 
 ---
@@ -43,6 +42,7 @@ Este projeto foi desenvolvido para organizar e realizar sorteios de "Amigo Secre
 - Cadastro de participantes.
 - Sorteio de pares de maneira aleatória.
 - Exibição dos resultados do sorteio.
+- Caso o participante não insira nenhum nome, uma mensagem de alerta " Por favor, insira um nome".
 
 ### Demonstração:
 ![demonstração 1](https://github.com/user-attachments/assets/241540a6-a980-4582-841f-ec91569951c4)
