@@ -50,11 +50,23 @@ Este projeto foi desenvolvido para organizar e realizar sorteios de "Amigo Secre
 ![demonstração 3](https://github.com/user-attachments/assets/840b6f9a-4d22-4dff-bbcb-59dde4a686da)
 
 
-
-
 ## 📂 Acesso ao Projeto
 Você pode acessar o código fonte do projeto [aqui](https://github.com/beatrizxaviier/challeng-amigo-secreto).
 
 Para clonar o repositório em sua máquina:
 ```bash
 git clone https://github.com/beatrizxaviier/challeng-amigo-secreto.git
+
+🚀 Tecnologias Utilizadas
+HTML
+CSS
+JavaScript
+
+👩‍💻 Pessoas Desenvolvedoras do Projeto
+Beatriz Xavier
+[LinkedIn ](https://www.linkedin.com/in/beatrizxaviier) | [Git]https://github.com/beatrizxaviier
+
+📜 Licença
+Este projeto está sob a licença MIT.
+
+
